@@ -1,0 +1,23 @@
+
+  .col-md-3{
+
+    margin-left: 500px;
+    border-radius: 150px solid black;
+    width: 200px;
+    height: 100px;
+    background-color:blue;
+    color: white;
+    animation: mymove 5s infinite;
+    
+  }
+  .col-md-3{
+
+    margin-left: 500px;
+    border-radius: 150px solid black;
+    width: 200px;
+    height: 100px;
+    background-color:green;
+    color: white;
+    animation: mymove 5s infinite;
+    
+  }
